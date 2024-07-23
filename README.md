@@ -16,7 +16,7 @@ The explanation of the purpose of each file is as follows:
 
 **RL** - This contains all the code regarding the Reinforcement Learning models, including setting up a generator and a DQN implementation.
 
-the .pt files contain the final models.
+The .pt files contain the final models.
 
 As for the folders, naturally the PressureModel folder contains code regarding the Pressure model and the xGModel folder contains code for the xG model. Raw Data contains the initial data for this work and processed data contains for convenience the data obtained after going through all the steps of data treatment.
 
